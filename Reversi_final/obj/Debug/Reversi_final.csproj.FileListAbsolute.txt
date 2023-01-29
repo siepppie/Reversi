@@ -1,0 +1,11 @@
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\bin\Debug\Reversi_final.exe.config
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\bin\Debug\Reversi_final.exe
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\bin\Debug\Reversi_final.pdb
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\obj\Debug\Reversi_final.csproj.AssemblyReference.cache
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\obj\Debug\Reversi_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\obj\Debug\Reversi_final.Properties.Resources.resources
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\obj\Debug\Reversi_final.csproj.GenerateResource.cache
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\obj\Debug\Reversi_final.csproj.CoreCompileInputs.cache
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\obj\Debug\Reversi_final.exe
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\obj\Debug\Reversi_final.pdb
+C:\Users\siebe\OneDrive - Universiteit Utrecht\Modelleren en Programmeren\Projecten\Practicum 2\Reversi_final\Reversi_final\obj\Debug\Reversi_final.Reversi.resources
